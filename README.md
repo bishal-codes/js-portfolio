@@ -8,4 +8,6 @@ This is a simple portfolio website that I created using HTML, CSS, and JavaScrip
 - CSS
 - JavaScript
 - Google Fonts
+- Bootstrap CSS
 - Bootstrap Icons
+- AOS library for animations
